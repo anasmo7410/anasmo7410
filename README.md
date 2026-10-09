@@ -1,4 +1,4 @@
-# Hi, I'm [Anas Mohamed] 👋
+# Hi, I'm Anas Mohamed 👋
 
 Data Science learner based in Alexandria, Egypt.
 
